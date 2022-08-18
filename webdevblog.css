@@ -1,0 +1,523 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+body {
+	min-width: 1089px;
+}
+
+.container {
+	
+}
+
+header {
+	width: 100%;
+	display: flex;
+	background-color: #000;
+}
+
+.navvvv {
+	width: 1089px;
+}
+
+.logo1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 800;
+	color: #fff;
+	margin-left: 450px;
+	margin-top: 56px;
+	margin-right: 182px;
+}
+
+nav {
+	margin-left: 782px;
+	margin-top: 57px;
+	margin-right: 84px;
+}
+
+.links1 {
+	font-family: 'Open Sans', sans-serif;
+	padding:  37px;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.links1:hover {
+	border-bottom: 3px  solid #fcac45;
+	
+}
+
+main {
+	width: 100%;
+}
+
+.logo2 {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #000;
+	padding-top: 296px;
+	padding-bottom: 425px;
+	width: 100%;
+	text-align: center;
+	color: #999;
+	font-weight: lighter;
+}
+
+.logo2h1 {
+	font-weight: lighter;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 44px;
+
+}
+
+.spanmycomp {
+	font-weight: bold;
+	color: #fcac45;
+}
+
+.spancomp {
+	font-weight: bold;
+	color: #b7b7b7;
+}
+
+.comp {
+	font-size: 20px;
+}
+
+.container1 {
+	width: 1089px;
+	margin: 0 auto;
+	display: flex;
+}
+
+.side1 {
+	padding-top: 105px;
+	padding-bottom: 101px;
+}
+
+.side2 {
+	margin-left: 177px;
+	padding-top: 136px;
+}
+
+.side2h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+	color: #222222;
+	border-bottom: 4px solid #fcac45;
+	padding-bottom: 21px;
+}
+
+.spanside2 {
+	font-weight: bold;
+}
+
+.side2p {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	padding-top: 31px;
+	color: #898989;
+} 
+
+.side2div {
+	margin-top: 45px;
+}
+
+.side2span {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: #7b7b7b;
+}
+
+.side2p2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	color: #7b7b7b;
+}
+
+.side2 p {
+	background: url(images/tochka.png) 0px no-repeat;
+	padding-left: 20px;	
+}
+
+.logo3h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 44px;
+	text-align: center;
+	color: #fff;
+	padding-top: 100px;
+}
+
+.logo3 {
+	background-color: #000;
+}
+
+.logo3div1 {
+	width: 1089px;
+	margin: 0 auto;
+}
+
+.logo3line {
+	border-bottom: 5px solid #fcac45;
+	width: 100px;
+	margin: 0 auto;
+	padding-top: 30px; 
+	margin-bottom: 107px;
+}
+
+.logo3photo {
+	margin-top: 100px;
+	background: #d7d7d7;
+	height: 127px;
+	width: 127px;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.team__list1 {
+	display: flex;
+	color: #eee;
+	text-align: center;
+	padding-right: 44px; 
+	padding-bottom: 167px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.logo3name {
+	padding-top: 22px;
+	font-weight: bold;
+}
+
+.logo3p1 {
+	padding-top: 7px;
+}
+
+.logo3p2 {
+	padding-top: 39px;
+	font-size: 16px;
+}
+
+.logo4 {
+	background-color: #fff;
+}
+
+.logo4div1 {
+	width: 1089px;
+	margin: 0 auto;
+}
+
+.logo4h1 {
+	text-align: center;
+	color: #222222;
+	padding-top: 100px;
+	font-size: 44px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+}
+
+.logo4line {
+	border-bottom: 5px solid #fcac45;
+	width: 100px;
+	margin: 0 auto;
+	padding-top: 30px;
+	margin-bottom: 55px;
+}
+
+.logo4p1 {
+	color: #6c6c6c;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	margin-bottom: 102px;
+	font-style: italic;
+}
+
+.cards {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.cardsh1 {
+	font-weight: 600;
+	font-size: 25px;
+	color: #222222;
+	padding-top: 29px;
+}
+
+.cardsp {
+	font-weight: 400;
+	font-size: 14px;
+	color: #222222;
+	padding-top: 21px;
+}
+
+.cardsm {
+	text-align: center;
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	grid-column-gap: 50px;
+	padding-bottom: 101px;
+}
+
+.logo5 {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #000;
+	padding-bottom: 211px;
+}
+
+.logo5div1 {
+	width: 1089px;
+	margin: 0 auto;
+}
+
+.logo5h1 {
+	font-size: 44px;
+	color: #e7e7e7;
+	text-align: center;
+	font-weight: 400;
+	padding-top: 101px;
+	padding-bottom: 30px;
+}
+
+.logo5span1 {
+	font-weight: 600;
+}
+
+.logo5border {
+	border-bottom: 5px solid #fcac45;
+	width: 100px;
+	margin: 0 auto;
+	margin-bottom: 112px;
+}
+
+.logo5photom {
+	width: 1089px;
+	margin: 0 auto;
+}
+
+.logo5photo {
+	margin-left: 25px;
+	display: grid;
+	grid-template-columns: auto auto auto auto auto;
+	grid-column-gap: 33px;
+}
+
+.logo6 {
+	font-family: 'Open Sans', sans-serif;
+	color: #222222;
+}
+
+.logo6div1 {
+	width: 1089px;
+	margin: 0 auto;
+}
+
+.logo6h1 {
+	font-weight: 400;
+	font-size: 44px;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.logo6line {
+	border-bottom: 5px solid #fcac45;
+	padding-top: 30px;
+	width: 100px;
+	margin: 0 auto;
+}
+
+.logo6span1 {
+	font-weight: 600;
+}
+
+.logo6p1 {
+	font-size: 16px;
+	font-style: italic;
+	text-align: center;
+	margin-top: 56px;
+	padding-bottom: 175px;
+	color: #222222;
+}
+
+.logo6alboms {
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	grid-column-gap: 31px;
+	grid-gap: 30px;
+	width: 1089px;
+	margin: 0 auto;
+	padding-bottom: 100px;
+}
+
+.logo6img1 {
+	width: 263px;
+	height: 237px;
+}
+
+.logo7 {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #000;
+}
+
+.logo7div1 {
+	width: 1089px;
+	margin: 0 auto;
+}
+
+.logo7h1 {
+	padding-top: 101px;
+	font-weight: 400;
+	font-size: 44px;
+	color: #e7e7e7;
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 30px;
+}
+
+.logo7span {
+	font-weight: 600;
+}
+
+.logo7line {
+	border-bottom: 5px solid #fcac45;
+	width: 100px;
+	margin: 0 auto;
+}
+
+.logo7p1 {
+	font-weight: 600;
+	font-size: 18px;
+	color: #e7e7e7;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 118px;
+	padding-bottom: 51px;
+}
+
+.logo7p2 {
+	font-size: 18px;
+	color: #b2b2b2;
+	text-align: center;
+	padding-bottom: 175px;
+}
+
+.logo7span2 {
+	color: #a7a7a7;
+	font-weight: 600;
+}
+
+.logo8div1 {
+	width: 751px;
+	margin: 0 auto;
+}
+
+.logo8h1 {
+	font-size: 44px;
+	color: #222222;
+	font-weight: 600;
+	text-align: center;
+	padding-top: 100px;
+}
+
+.logo8line {
+	border-bottom: 5px solid #fcac45;
+	width: 100px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+.logo8p1 {
+	font-size: 16px;
+	font-style: italic;
+	color: #6c6c6c;
+	text-align: center;
+	padding-top: 56px;
+	padding-bottom: 95px;
+}
+
+.forms {
+	font-family: 'Open Sans', sans-serif;
+	padding-bottom: 102px;
+}
+
+.formsdiv1 {
+	width: 751px;
+	margin: 0 auto;
+}
+
+.forms input {
+	font-size: 14px;
+	font-weight: 400;
+	color: #636363;
+	width: 361px;
+	height: 42px;
+	margin-bottom: 31px;
+}
+
+.forms textarea {
+	width: 100%;
+	height: 163px;
+}
+
+.red {
+	color: #db0000;
+}
+
+.button {
+	height: 40px;
+	width: 165px;
+}
+
+.formsdiv2 {
+	display: flex;
+}
+
+.forms input  {
+	margin-top: 10px;
+	border: 1px solid #999999;
+}
+
+.forms textarea {
+	margin-top: 10px;
+	border: 1px solid #999999;
+}
+
+input:first-of-type {
+	margin-right: 28px;
+}
+
+input [type=submit] {
+	height: 40px;
+	width: 165px;
+	background: #000;
+	color: #fff;
+}
+
+.footer {
+	background-color: #222222;
+}
+
+.footdiv {
+	display: flex;
+	justify-content: center;
+	width: 1089px;
+	margin: 0 auto;
+}
+
+.footdiv img {
+	padding-top: 30px;
+	margin-left: 13px;
+	padding-bottom: 30px;
+}
+
+.footdiv img:hover {
+	opacity: 0.5;
+}
